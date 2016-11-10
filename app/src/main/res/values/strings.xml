@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string-array name="some_array">
+        <item>some1</item>
+        <item>some2</item>
+        <item>some3</item>
+        <item>some4</item>
+        <item>some5</item>
+        <item>some6</item>
+    </string-array>
+</resources>
